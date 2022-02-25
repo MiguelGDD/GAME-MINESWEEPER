@@ -1,0 +1,11 @@
+body{
+	width:960px;
+	margin:0 auto;
+}
+h1{
+	text-align:center;
+}
+#miCanvas{
+	border:dotted 2px black;
+	background:#7882A4;	/* Fondo del canvas */
+}
